@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EditCALC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EditCALC_jar</output-path>
+    <root id="archive" name="EditCALC.jar">
+      <element id="module-output" name="EditCALC" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jgoodies-common-1.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jgoodies-forms-1.8.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
